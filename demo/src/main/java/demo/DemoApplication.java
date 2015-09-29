@@ -28,7 +28,7 @@ public class DemoApplication extends SpringBootServletInitializer {
     
     
 }
-
+//dsfdsfdsfdf
 interface ReservationRepositoty extends JpaRepository<Booking, Long>{
 	
 	
